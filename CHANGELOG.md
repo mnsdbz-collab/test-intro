@@ -1,0 +1,2 @@
+- Дополнен main.txt новыми строками (feature/text-update)
+- Добавлено описание проекта в README.md (feature/add-description)
